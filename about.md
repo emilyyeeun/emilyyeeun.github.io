@@ -24,8 +24,7 @@ I'm specifically interested in pursuing a career in Digital Health and looking f
 	<ul>
       <li>Computer Science </li>
     </ul>
-	<li>Magna Cum Laude</li>
-  <li><i>Honors and Activities</i></li>
+  <li><i>Honors and Activities</i>: Magna Cum Laude, Women's Club Ice Hockey, Wharton Undergraduate Healthcare Club, Synapse Medical Magazine, RCF</li>
 </ul>
 
 <p> <img src="/assets/images/mburg_shield.png" style="width:45px;height:45px;float:left; padding-left: 10px; margin:5px 10px 10px 0px"></p>
@@ -33,7 +32,7 @@ I'm specifically interested in pursuing a career in Digital Health and looking f
 <span style="float: right;"> 2012.08-2016.05 </span>
 <br> High School Diploma </p>
 <ul style="margin-top:0;">
-	<li><i>Honors and Activities</i>: </li>
+	<li><i>Honors and Activities</i>: Cum Laude, 2014 Mid-Atlantic Prep League Academic Honoree, Varsity Field Hockey, Track and Field, Head Chapel Usher, Dormitory Prefect</li>
 	</ul>
 
 <h2>Professional Experience</h2>
@@ -73,6 +72,7 @@ I'm specifically interested in pursuing a career in Digital Health and looking f
 	<li>Studied effect of group discussion in accuracy of quantity estimation (i.e. the wisdom of crowds) with Dr. Barbara Mellers as 1 of 11 fellows, and delivered a 10-minute presentation and a 30-page paper based on research findings and lit review</li>
 	<li>Designed Qualtrics surveys to conduct studies with the Wharton Behavior Lab and analyzed data through Excel statistical tests
  </li>
+ <li><a href="https://drive.google.com/file/d/1W6wAv1iJV1FUeXkttOIX8SlqZ9lBGRVP/view">Link to Paper</a></li>
 </ul>
 
 <p style="margin-bottom:0;margin-bottom:0"><strong>Hello Tomorrow Startup Challenge Korea</strong> | Top 30 Semi-Finalist <span style="float: right;"> 2017.07 </span></p>
@@ -86,9 +86,7 @@ distance, transmission wavelength, and concentration ratio
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/emilyyeeun/LactateSensor">Non-invasive Lactate Sensor</a></li>
 </ul>
 
 <h2>Skills</h2>
